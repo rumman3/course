@@ -1,3 +1,7 @@
 # course
-Business Week
-Python Week
+
+## First Week (Business)
+
+## Second Week (Python)
+
+## Third Week (Advanced Python)
